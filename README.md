@@ -3,9 +3,9 @@
 
 ## Software Developer
 
-4-th year undergraduate studying Software Engineering.
 
-- 🌍 I'm based in **Razgrad, Bulgaria**
+
+- 🌍 I'm based in **Razgrad/Varna/Ruse, Bulgaria**
 - 📬 You can contact me at [ibrahimshaer71@gmail.com](mailto:ibrahimshaer71@gmail.com)
 - 🧠 I'm learning **JS** and **React** at the moment
 
