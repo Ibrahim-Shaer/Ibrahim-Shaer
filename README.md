@@ -1,7 +1,7 @@
 
 # Hi , my name is Ibrahim 
 
-## Backend Developer
+## Software Developer
 
 4-th year undergraduate studying Software Engineering.
 
